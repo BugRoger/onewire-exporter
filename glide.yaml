@@ -1,0 +1,5 @@
+package: github.com/bugroger/onewire-exporter
+import:
+- package: github.com/prometheus/client_golang
+- package: github.com/prometheus/common/model
+- package: github.com/dhiltgen/go-owfs.git
